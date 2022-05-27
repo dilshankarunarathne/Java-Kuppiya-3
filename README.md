@@ -1,7 +1,7 @@
 # Java Object-Oriented Programming
 
 1. Intro to OOP
-2. Classes
+2. Classes and Objects
 3. Static vs Instance
 4. **this** keyword
 5. Constructors
