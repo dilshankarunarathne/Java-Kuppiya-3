@@ -21,14 +21,7 @@
 19. Local Inner Class
 20. Anonymous Class
 21. Abstract classes
-     * 
-     * HashCode and Equals
-     * 
-     * 
-     * Inner classes
-         * 
-         * 
-     * Immutable Class
+     
 22. Generics
      * Introduction to Generics
      * Type Parameters
