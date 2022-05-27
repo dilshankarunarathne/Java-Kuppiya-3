@@ -38,6 +38,8 @@
 * Vector
 * Tree
 
+
+
 23. Quick Topics
      * Var-args
      * Immutable Objects and Data Structures
