@@ -58,7 +58,7 @@
 * Merge Sort
 * Insertion Sort
 * Quick Sort
-* Searching
+### Searching
 * Linear Search
 * Binary Search
 
