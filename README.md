@@ -14,7 +14,7 @@
 12. **super** keyword
 13. Polymorphism
 14. **super()** call
-15. The Object Class
+15. The **Object** Class
      * Static Initializer
      * HashCode and Equals
      * Composition
