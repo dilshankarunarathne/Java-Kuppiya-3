@@ -44,17 +44,7 @@
      * Null safety
 24. Data Structures
      
-25. Collections
-     * Container Classes
-     * Autoboxing and Unboxing
-     * Java Arrays
-     * List
-     * Iterator
-     * Map
-     * Set
-     * Tree
-     * Queue
-     * Stack
+25. 
 26. Algorithms
      * Sorting
          * Bubble Sort
