@@ -9,7 +9,7 @@
 7. Chaining
 8. Encapsulation
     * Static Initializer
-    * Inheritance
+    * 
     * Super
     * Method Overriding
     * The Object Class
