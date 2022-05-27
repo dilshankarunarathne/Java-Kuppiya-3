@@ -9,38 +9,39 @@
 7. Chaining
 8. Encapsulation
 9. Inheritance
-    * Static Initializer
-    * 
-    * Super
-    * Method Overriding
-    * The Object Class
-        * HashCode and Equals
-    * Composition
-    * 
-    * Polymorphism
-    * Interfaces
-    * Abstract classes
-    * Inner classes
-        * Local Inner Class
-        * Anonymous Class
-    * Immutable Class
-10. Generics
+10. 
+     * Static Initializer
+     * 
+     * Super
+     * Method Overriding
+     * The Object Class
+         * HashCode and Equals
+     * Composition
+     * 
+     * Polymorphism
+     * Interfaces
+     * Abstract classes
+     * Inner classes
+         * Local Inner Class
+         * Anonymous Class
+     * Immutable Class
+11. Generics
      * Introduction to Generics
      * Type Parameters
      * Diamonds
      * Generic Classes
      * Bounded Type Parameters
-11. Quick Topics
+12. Quick Topics
      * Var-args
      * Immutable Objects and Data Structures
      * Null safety
-12. Data Structures
+13. Data Structures
      * Linked List
      * Stack
      * Queue
      * Vector
      * Tree
-13. Collections
+14. Collections
      * Container Classes
      * Autoboxing and Unboxing
      * Java Arrays
@@ -51,7 +52,7 @@
      * Tree
      * Queue
      * Stack
-14. Algorithms
+15. Algorithms
      * Sorting
          * Bubble Sort
          * Merge Sort
