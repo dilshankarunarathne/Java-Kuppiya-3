@@ -63,6 +63,7 @@
 * Binary Search
 
 # Quick Topics
+
      * Var-args
      * Immutable Objects and Data Structures
      * Null safety
