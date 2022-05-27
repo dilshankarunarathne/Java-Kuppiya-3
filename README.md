@@ -15,6 +15,7 @@
 13. Polymorphism
 14. **super()** call
 15. The **Object** Class
+16. 
      * Static Initializer
      * HashCode and Equals
      * 
@@ -24,23 +25,23 @@
          * Local Inner Class
          * Anonymous Class
      * Immutable Class
-16. Generics
+17. Generics
      * Introduction to Generics
      * Type Parameters
      * Diamonds
      * Generic Classes
      * Bounded Type Parameters
-17. Quick Topics
+18. Quick Topics
      * Var-args
      * Immutable Objects and Data Structures
      * Null safety
-18. Data Structures
+19. Data Structures
      * Linked List
      * Stack
      * Queue
      * Vector
      * Tree
-19. Collections
+20. Collections
      * Container Classes
      * Autoboxing and Unboxing
      * Java Arrays
@@ -51,7 +52,7 @@
      * Tree
      * Queue
      * Stack
-20. Algorithms
+21. Algorithms
      * Sorting
          * Bubble Sort
          * Merge Sort
