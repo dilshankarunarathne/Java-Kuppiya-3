@@ -39,11 +39,7 @@
      * Immutable Objects and Data Structures
      * Null safety
 24. Data Structures
-     * Linked List
-     * Stack
-     * Queue
-     * Vector
-     * Tree
+     
 25. Collections
      * Container Classes
      * Autoboxing and Unboxing
