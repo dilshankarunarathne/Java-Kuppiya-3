@@ -11,6 +11,7 @@
 9. Encapsulation
 10. Inheritance
 11. Method Overriding
+12. 
      * Static Initializer
      * 
      * Super
@@ -26,23 +27,23 @@
          * Local Inner Class
          * Anonymous Class
      * Immutable Class
-12. Generics
+13. Generics
      * Introduction to Generics
      * Type Parameters
      * Diamonds
      * Generic Classes
      * Bounded Type Parameters
-13. Quick Topics
+14. Quick Topics
      * Var-args
      * Immutable Objects and Data Structures
      * Null safety
-14. Data Structures
+15. Data Structures
      * Linked List
      * Stack
      * Queue
      * Vector
      * Tree
-15. Collections
+16. Collections
      * Container Classes
      * Autoboxing and Unboxing
      * Java Arrays
@@ -53,7 +54,7 @@
      * Tree
      * Queue
      * Stack
-16. Algorithms
+17. Algorithms
      * Sorting
          * Bubble Sort
          * Merge Sort
