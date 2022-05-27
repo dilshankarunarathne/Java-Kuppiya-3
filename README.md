@@ -67,7 +67,3 @@
  * Var-args
  * Immutable Objects and Data Structures
  * Null safety
-24. Data Structures
-     
-25. 
-26. 
