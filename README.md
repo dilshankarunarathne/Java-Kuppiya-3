@@ -51,7 +51,15 @@
 * Queue
 * Stack
 
-
+Algorithms
+* Sorting
+* Bubble Sort
+* Merge Sort
+* Insertion Sort
+* Quick Sort
+* Searching
+* Linear Search
+* Binary Search
 
 23. Quick Topics
      * Var-args
