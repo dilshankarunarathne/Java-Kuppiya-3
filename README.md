@@ -11,7 +11,7 @@
 9. Encapsulation
 10. Inheritance
 11. Method Overriding
-12. Super
+12. Super keyword
 13. Polymorphism
 14. The Object Class
      * Static Initializer
