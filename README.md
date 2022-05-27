@@ -32,7 +32,11 @@
 
 # Data Structures
 
-
+* Linked List
+    * Stack
+    * Queue
+    * Vector
+    * Tree
 
 23. Quick Topics
      * Var-args
