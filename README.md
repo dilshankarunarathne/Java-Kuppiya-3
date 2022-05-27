@@ -52,6 +52,7 @@
 * Stack
 
 # Algorithms
+
 * Sorting
 * Bubble Sort
 * Merge Sort
