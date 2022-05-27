@@ -24,7 +24,6 @@
      
 # Generics
 
-22. Generics
      * Introduction to Generics
      * Type Parameters
      * Diamonds
