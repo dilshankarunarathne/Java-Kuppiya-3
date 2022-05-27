@@ -16,7 +16,7 @@
      * 
      * Super
      * 
-     * The Object Class
+     * 
          * HashCode and Equals
      * Composition
      * 
