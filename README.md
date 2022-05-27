@@ -3,7 +3,7 @@
 1. ~~Intro to OOP~~
 2. ~~Classes and Objects~~
 3. ~~Static vs Instance~~
-4. **this** keyword
+4. ~~**this** keyword~~
 5. Constructors
 6. Method Overloading
 7. **this()** call
