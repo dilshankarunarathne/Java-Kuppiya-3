@@ -18,7 +18,7 @@
 16. Composition
 17. Interfaces
 18. Static Initializer
-19. 
+19. Local Inner Class
      * 
      * HashCode and Equals
      * 
