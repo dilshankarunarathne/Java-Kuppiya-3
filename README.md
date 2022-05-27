@@ -5,11 +5,12 @@
 3. Static vs Instance
 4. **this** keyword
 5. Constructors
-6. **this()** call
-7. Chaining
-8. Encapsulation
-9. Inheritance
-10. Method Overriding
+6. 
+7. **this()** call
+8. Chaining
+9. Encapsulation
+10. Inheritance
+11. Method Overriding
      * Static Initializer
      * 
      * Super
@@ -25,23 +26,23 @@
          * Local Inner Class
          * Anonymous Class
      * Immutable Class
-11. Generics
+12. Generics
      * Introduction to Generics
      * Type Parameters
      * Diamonds
      * Generic Classes
      * Bounded Type Parameters
-12. Quick Topics
+13. Quick Topics
      * Var-args
      * Immutable Objects and Data Structures
      * Null safety
-13. Data Structures
+14. Data Structures
      * Linked List
      * Stack
      * Queue
      * Vector
      * Tree
-14. Collections
+15. Collections
      * Container Classes
      * Autoboxing and Unboxing
      * Java Arrays
@@ -52,7 +53,7 @@
      * Tree
      * Queue
      * Stack
-15. Algorithms
+16. Algorithms
      * Sorting
          * Bubble Sort
          * Merge Sort
