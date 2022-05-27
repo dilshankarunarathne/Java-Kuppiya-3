@@ -18,7 +18,6 @@
 16. Composition
      * Static Initializer
      * HashCode and Equals
-     * 
      * Interfaces
      * Abstract classes
      * Inner classes
