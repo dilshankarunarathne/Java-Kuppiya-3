@@ -23,7 +23,7 @@
      * 
      * HashCode and Equals
      * 
-     * Abstract classes
+     * 
      * Inner classes
          * 
          * 
