@@ -3,7 +3,7 @@
 1. Intro to OOP
 2. Classes
 3. Static vs Instance
-    * Constructors
+4. Constructors
     * This & Super
     * Chaining
     * Static Initializer
@@ -20,23 +20,23 @@
         * Local Inner Class
         * Anonymous Class
     * Immutable Class
-4. Generics
+5. Generics
     * Introduction to Generics
     * Type Parameters
     * Diamonds
     * Generic Classes
     * Bounded Type Parameters
-5. Quick Topics
+6. Quick Topics
     * Var-args
     * Immutable Objects and Data Structures
     * Null safety
-6. Data Structures
+7. Data Structures
     * Linked List
     * Stack
     * Queue
     * Vector
     * Tree
-7. Collections
+8. Collections
     * Container Classes
     * Autoboxing and Unboxing
     * Java Arrays
@@ -47,7 +47,7 @@
     * Tree
     * Queue
     * Stack
-8. Algorithms
+9. Algorithms
     * Sorting
         * Bubble Sort
         * Merge Sort
