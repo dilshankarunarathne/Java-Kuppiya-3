@@ -23,7 +23,7 @@
      * 
      * Abstract classes
      * Inner classes
-         * Local Inner Class
+         * 
          * Anonymous Class
      * Immutable Class
 19. Generics
