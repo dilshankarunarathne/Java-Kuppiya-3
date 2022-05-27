@@ -5,7 +5,7 @@
 3. Static vs Instance
 4. **this** keyword
 5. Constructors
-6. 
+6. Method Overloading
 7. **this()** call
 8. Chaining
 9. Encapsulation
