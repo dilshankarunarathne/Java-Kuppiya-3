@@ -25,7 +25,7 @@
      * Abstract classes
      * Inner classes
          * 
-         * Anonymous Class
+         * 
      * Immutable Class
 20. Generics
      * Introduction to Generics
