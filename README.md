@@ -24,11 +24,11 @@
      
 # Generics
 
-     * Introduction to Generics
-     * Type Parameters
-     * Diamonds
-     * Generic Classes
-     * Bounded Type Parameters
+ * Introduction to Generics
+ * Type Parameters
+ * Diamonds
+ * Generic Classes
+ * Bounded Type Parameters
 23. Quick Topics
      * Var-args
      * Immutable Objects and Data Structures
