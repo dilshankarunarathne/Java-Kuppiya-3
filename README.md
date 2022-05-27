@@ -19,7 +19,7 @@
 17. Static Initializer
      * 
      * HashCode and Equals
-     * Interfaces
+     * 
      * Abstract classes
      * Inner classes
          * Local Inner Class
