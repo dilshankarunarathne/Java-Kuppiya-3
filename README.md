@@ -5,10 +5,11 @@
 3. Static vs Instance
 4. **This** keyword
 5. Constructors
-    * This & Super
+    * This & 
     * Chaining
     * Static Initializer
     * Inheritance
+    * Super
     * Method Overriding
     * The Object Class
         * HashCode and Equals
