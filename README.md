@@ -1,4 +1,4 @@
-# Java Object-Oriented Programming
+# Object-Oriented Programming
 
 1. Intro to OOP
 2. Classes and Objects
