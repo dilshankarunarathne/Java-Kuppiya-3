@@ -1,5 +1,5 @@
 # Java Object-Oriented Programming
-Topics in OOP
+
 1. Intro to OOP
 2. Classes and Objects
 3. Static vs Instance
