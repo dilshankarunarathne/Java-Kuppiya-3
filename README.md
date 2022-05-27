@@ -7,7 +7,7 @@
 5. Constructors
 6. **this()** call
 7. Chaining
-8. 
+8. Encapsulation
     * Static Initializer
     * Inheritance
     * Super
@@ -15,7 +15,7 @@
     * The Object Class
         * HashCode and Equals
     * Composition
-    * Encapsulation
+    * 
     * Polymorphism
     * Interfaces
     * Abstract classes
