@@ -5,7 +5,7 @@
 3. Static vs Instance
 4. **this** keyword
 5. Constructors
-6. This() call
+6. this() call
 7. Chaining
     * Static Initializer
     * Inheritance
