@@ -8,7 +8,7 @@
 6. **this()** call
 7. Chaining
 8. Encapsulation
-9. 
+9. Inheritance
     * Static Initializer
     * 
     * Super
