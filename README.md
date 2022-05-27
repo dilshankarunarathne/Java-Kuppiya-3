@@ -58,12 +58,4 @@
 24. Data Structures
      
 25. 
-26. Algorithms
-     * Sorting
-         * Bubble Sort
-         * Merge Sort
-         * Insertion Sort
-         * Quick Sort
-     * Searching
-         * Linear Search
-         * Binary Search 
+26. 
