@@ -16,8 +16,7 @@
 14. **super()** call
 15. The Object Class
      * Static Initializer
-     * 
-         * HashCode and Equals
+     * HashCode and Equals
      * Composition
      * Interfaces
      * Abstract classes
