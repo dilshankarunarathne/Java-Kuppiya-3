@@ -13,7 +13,7 @@
      * Static Initializer
      * 
      * Super
-     * Method Overriding
+     * 
      * The Object Class
          * HashCode and Equals
      * Composition
