@@ -22,7 +22,7 @@
 20. Anonymous Class
 21. Abstract classes
      
-# 
+# Generics
 
 22. Generics
      * Introduction to Generics
