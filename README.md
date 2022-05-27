@@ -17,7 +17,6 @@
      * Super
          * HashCode and Equals
      * Composition
-     * 
      * Interfaces
      * Abstract classes
      * Inner classes
