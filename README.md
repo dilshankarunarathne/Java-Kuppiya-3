@@ -15,8 +15,6 @@
      * Static Initializer
      * 
      * Super
-     * 
-     * 
          * HashCode and Equals
      * Composition
      * 
