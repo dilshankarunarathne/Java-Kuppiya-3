@@ -51,7 +51,7 @@
 * Queue
 * Stack
 
-Algorithms
+# Algorithms
 * Sorting
 * Bubble Sort
 * Merge Sort
