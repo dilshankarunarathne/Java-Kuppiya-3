@@ -53,7 +53,7 @@
 
 # Algorithms
 
-* Sorting
+### Sorting
 * Bubble Sort
 * Merge Sort
 * Insertion Sort
