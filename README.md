@@ -13,7 +13,6 @@
 11. Method Overriding
 12. The Object Class
      * Static Initializer
-     * 
      * Super
          * HashCode and Equals
      * Composition
