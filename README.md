@@ -19,7 +19,7 @@
 17. Interfaces
 18. Static Initializer
 19. Local Inner Class
-20. 
+20. Anonymous Class
      * 
      * HashCode and Equals
      * 
