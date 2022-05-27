@@ -14,7 +14,7 @@
 12. Polymorphism
 13. The Object Class
      * Static Initializer
-     * Super
+     * 
          * HashCode and Equals
      * Composition
      * Interfaces
