@@ -38,7 +38,7 @@
 * Vector
 * Tree
 
-Collections
+# Collections
 
 * Container Classes
 * Autoboxing and Unboxing
