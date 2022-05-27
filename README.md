@@ -8,6 +8,7 @@
 6. **this()** call
 7. Chaining
 8. Encapsulation
+9. 
     * Static Initializer
     * 
     * Super
@@ -23,23 +24,23 @@
         * Local Inner Class
         * Anonymous Class
     * Immutable Class
-9. Generics
-    * Introduction to Generics
-    * Type Parameters
-    * Diamonds
-    * Generic Classes
-    * Bounded Type Parameters
-10. Quick Topics
+10. Generics
+     * Introduction to Generics
+     * Type Parameters
+     * Diamonds
+     * Generic Classes
+     * Bounded Type Parameters
+11. Quick Topics
      * Var-args
      * Immutable Objects and Data Structures
      * Null safety
-11. Data Structures
+12. Data Structures
      * Linked List
      * Stack
      * Queue
      * Vector
      * Tree
-12. Collections
+13. Collections
      * Container Classes
      * Autoboxing and Unboxing
      * Java Arrays
@@ -50,7 +51,7 @@
      * Tree
      * Queue
      * Stack
-13. Algorithms
+14. Algorithms
      * Sorting
          * Bubble Sort
          * Merge Sort
