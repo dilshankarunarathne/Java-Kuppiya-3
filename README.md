@@ -18,6 +18,7 @@
 16. Composition
 17. Interfaces
 18. Static Initializer
+19. 
      * 
      * HashCode and Equals
      * 
@@ -26,23 +27,23 @@
          * 
          * Anonymous Class
      * Immutable Class
-19. Generics
+20. Generics
      * Introduction to Generics
      * Type Parameters
      * Diamonds
      * Generic Classes
      * Bounded Type Parameters
-20. Quick Topics
+21. Quick Topics
      * Var-args
      * Immutable Objects and Data Structures
      * Null safety
-21. Data Structures
+22. Data Structures
      * Linked List
      * Stack
      * Queue
      * Vector
      * Tree
-22. Collections
+23. Collections
      * Container Classes
      * Autoboxing and Unboxing
      * Java Arrays
@@ -53,7 +54,7 @@
      * Tree
      * Queue
      * Stack
-23. Algorithms
+24. Algorithms
      * Sorting
          * Bubble Sort
          * Merge Sort
