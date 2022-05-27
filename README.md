@@ -17,7 +17,7 @@
 15. The **Object** Class
 16. Composition
 17. 
-     * Static Initializer
+     * 
      * HashCode and Equals
      * Interfaces
      * Abstract classes
