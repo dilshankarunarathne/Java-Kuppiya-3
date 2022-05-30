@@ -5,24 +5,26 @@
 3. ~~Static vs Instance~~
 4. ~~**this** keyword~~
 5. ~~Constructors~~
-6. Method Overloading
-7. **this()** call
-8. Chaining
+6. ~~Method Overloading~~
+7. ~~**this()** call~~
+8. ~~Chaining~~
 9. ~~Encapsulation~~
-10. Inheritance
-11. Method Overriding
-12. **super** keyword
-13. Polymorphism
-14. **super()** call
-15. The **Object** Class
-16. Composition
-17. Interfaces
-18. Static Initializer
-19. Local Inner Class
-20. Anonymous Class
-21. Abstract classes
+10. ~~Inheritance~~
+11. ~~Getters and Setters~~
+12. ~~Method Overriding~~
+13. ~~**super** keyword~~
+14. ~~Polymorphism~~
+15. ~~**super()** call~~
+16. ~~The **Object** Class~~
+17. ~~Composition~~
+18. ~~Interfaces~~
+19. ~~Static Initializer~~
+20. ~~Inner Class~~
+    * ~~Local class~~
+    * ~~Anonymous Class~~
+21. ~~Abstract classes~~
      
-# Generics
+# ~~Generics~~
 
  * Introduction to Generics
  * Type Parameters
@@ -40,10 +42,10 @@
 
 # Collections
 
-* Container Classes
-* Autoboxing and Unboxing
+* ~~Container Classes~~
+* ~~Autoboxing and Unboxing~~
 * Java Arrays
-* List
+* ~~List~~
 * Iterator
 * Map
 * Set
@@ -62,8 +64,3 @@
 * Linear Search
 * Binary Search
 
-# Quick Topics
-
- * Var-args
- * Immutable Objects and Data Structures
- * Null safety
